@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?pepijnvdliefvoort&color=blue)
+
 <!--
 **Pepijnvdliefvoort/pepijnvdliefvoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
